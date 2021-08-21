@@ -19,7 +19,7 @@ help
 
 
 # Images
-<img src="images/Gambar.png">
+<img src="images/Gambar1.png">
 <br>
 <img src="images/Gambar2.png">
 <br>
