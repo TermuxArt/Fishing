@@ -19,8 +19,8 @@ help
 
 
 # Images
-<img src="Images/Gambar.png">
+<img src="images/Gambar.png">
 <br>
-<img src="Images/Gambar2.png">
+<img src="images/Gambar2.png">
 <br>
-<img src="Images/Gambar3.png">
+<img src="images/Gambar3.png">
